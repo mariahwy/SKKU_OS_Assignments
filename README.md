@@ -7,3 +7,6 @@
 ### PA3 : Virtual Memory implementation
 
 ### PA4 : Page replacement algorithm
+
+---
+This repository is maintained for educational purposes only, and plagiarism of the code may result in penalties.
